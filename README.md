@@ -10,11 +10,10 @@ Database - Postgresql (v13)
 
 ## Installation
 
-The project folders are divided into three sections namely:
+The project folders are divided into two sections namely:
 
 * ecart-frontend
 * ecart-backend
-* docs
 
 As the name suggests, the respective folders contain the relevant frontend and backend code files.
 
