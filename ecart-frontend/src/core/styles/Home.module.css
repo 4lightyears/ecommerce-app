@@ -1,0 +1,9 @@
+.CategoryWrapperDiv {
+  align-content: stretch;
+  width: 100%;
+}
+
+.CategorySelectDropdown {
+  display: flex;
+  max-width: 100%;
+}

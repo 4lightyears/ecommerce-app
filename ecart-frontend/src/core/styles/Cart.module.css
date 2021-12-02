@@ -1,0 +1,76 @@
+.CartProductCard {
+  margin-bottom: 0;
+  margin-left: 5px;
+  border: 0.1px solid #cdced1;
+  max-width: 98%;
+  max-height: 300px;
+}
+
+.cartImageContainer {
+  width: 80px;
+  min-height: 80px;
+  max-height: 100px;
+  float: left;
+  margin: 5px;
+  padding: 0px;
+}
+
+.CartProductImage {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.paymentCardCart {
+  margin-bottom: 8px;
+  margin-left: 5px;
+  border: 0.1px solid #cdced1;
+}
+
+.cardHorizontalDiv {
+  width: 100%;
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+.TypographyDiv {
+  width: 300px;
+}
+
+.cardDivContainer {
+  display: block;
+  margin: 0px;
+}
+
+.cardProductInfo {
+  margin-left: 25px;
+}
+
+.addRemoveSection {
+  display: flexbox;
+  float: right;
+  border: 0.4px solid rgb(201, 201, 201);
+  border-width: thin;
+  border-radius: 3px;
+  float: right;
+  margin-right: 0px;
+}
+
+.billSectionHeader {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.addRemoveStack {
+  float: right;
+}
+
+.addRemoveContainerDiv {
+  float: right;
+  align-items: right;
+  margin-right: 0px;
+}
+
+.placeOrderButton {
+  margin: 0px 20px 1px 1px;
+}

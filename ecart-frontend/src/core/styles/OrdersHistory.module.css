@@ -1,0 +1,82 @@
+.orderHistoryCard {
+  display: flexbox;
+}
+
+.orderHistoryCardBody {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  background: #e5f8f7;
+}
+
+.orderThumbnailImageContainer {
+  width: 70px;
+  float: left;
+  margin-right: 30px;
+  object-fit: fill;
+}
+
+.orderThumbnailImage {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.orderGeneralInfo {
+  width: 100%;
+}
+
+.orderGeneralInfoItem {
+  width: 100%;
+  margin: 7px 0px 7px 0px;
+}
+
+.totalItemsGrayIndicator {
+  float: right;
+  text-align: center;
+  background: #d3d3d3;
+  width: 60px;
+  margin-top: auto;
+  height: 100%;
+  margin-top: auto;
+  margin-bottom: 80px;
+}
+
+.orderHistoryCardNames {
+  display: flexbox;
+  background-color: white;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  padding: 0px 0px 5px 5px;
+  width: 60%;
+  float: left;
+  border-radius: 5px;
+  font-size: smaller;
+  box-shadow: -1px 1px 2px 0px #d3d3d3;
+}
+
+.orderAmountInfo {
+  display: flexbox;
+  float: right;
+  padding: 5px;
+  width: 25%;
+  font-size: smaller;
+  margin-bottom: auto;
+  margin-left: 1px;
+  text-align: right;
+}
+
+.offCanvasDiv {
+  width: 45%;
+  padding: 0;
+}
+
+.offCanvasBody {
+  padding-top: 2px;
+}
+
+.orderListOfProducts {
+  width: 70%;
+  padding-left: 4px;
+}

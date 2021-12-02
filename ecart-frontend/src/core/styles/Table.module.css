@@ -1,0 +1,56 @@
+.availableBadge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #00a94e;
+  border-radius: 50%;
+  text-align: center;
+  height: 30px;
+}
+
+.tableHeadCell {
+  border: 1px solid #b9b9b9;
+}
+
+.tableBodyCell {
+  border: 0.4px solid #c9cfda;
+  border-width: thin;
+}
+
+.tableImageContainer {
+  width: 60px;
+  min-height: 50px;
+  max-height: auto;
+  float: left;
+  object-fit: contain;
+}
+
+.productImage {
+  height: 60px;
+  width: 60px;
+  object-fit: contain;
+}
+
+.paginationDiv {
+  align-content: center;
+  margin: auto;
+}
+
+.paginationLinks {
+  width: 30%;
+  margin: auto;
+  padding-left: 20px;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.tableContainer {
+  padding: "0px";
+  margin-bottom: "10px";
+}
+
+.MuiPaginationItem-root:active {
+  font-weight: bold;
+}

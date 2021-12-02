@@ -1,0 +1,18 @@
+.signUpForm {
+  text-align: left;
+  border: 1px solid gainsboro;
+  margin: 40px auto 5vh auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 40%;
+}
+
+.signUpSubmit {
+  text-align: center;
+}
+
+.formLegend {
+  text-align: center;
+}

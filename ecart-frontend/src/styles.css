@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  display: flexbox;
+}
+
+.body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}

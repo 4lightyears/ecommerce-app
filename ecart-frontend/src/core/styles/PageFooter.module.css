@@ -1,0 +1,36 @@
+.footer {
+  background-color: #14a098;
+  margin-top: 2px;
+  align-items: center;
+  align-content: center;
+  padding: 10px;
+  position: static;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+}
+
+.footerItems {
+  text-align: center;
+}
+
+.social {
+  display: inline-block;
+  width: fit-content;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-style: italic;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-radius: 50%;
+}
+
+.socialsList {
+  list-style: none;
+  margin: 15px;
+}
+
+div p {
+  margin-bottom: 1px;
+}
