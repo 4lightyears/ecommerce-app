@@ -18,7 +18,7 @@ The project folders are divided into three sections namely:
 
 As the name suggests, the respective folders contain the relevant frontend and backend code files.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ecart-backend using the requirements.txt file in the backend folder. Traverse into the ecart-backend folder and use the following command to install the backend:  
+You can either choose to or skip using a virtual environment for installing backend dependecies. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ecart-backend using the requirements.txt file in the backend folder. Traverse into the ecart-backend folder and use the following command to install the backend: 
 
 ```terminal
 pip install -r requirements.txt 
