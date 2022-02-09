@@ -63,12 +63,6 @@ Refer [pep8](https://www.python.org/dev/peps/pep-0008/) docs for understanding t
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-The current contributors to the project are:
-* Keya Gandhi
-* Ravi Kumar
-* Pradeep
-* Vinoth Raj
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
